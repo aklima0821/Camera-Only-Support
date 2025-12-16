@@ -1,49 +1,99 @@
-# 📱 AlertMe App Support
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Camera Only – Support</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        padding: 20px;
+        max-width: 720px;
+        margin: auto;
+    }
+    h1, h2, h3 {
+        color: #111;
+    }
+    a {
+        color: #1a73e8;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
+</head>
+<body>
 
-Welcome to the official support page for **AlertMe** — your smart market monitoring and alert app.  
-Here you can find help, FAQs, and ways to contact us if you need assistance.
+<h1>Camera Only – Support</h1>
 
----
+<p>
+Thank you for using <strong>Camera Only</strong>.<br>
+We’re committed to providing a simple, reliable, and authentic camera experience focused purely on capturing moments—no filters, no AI, no distractions.
+</p>
 
-## 🚀 About AlertMe
-**AlertMe** helps you stay ahead of the market by sending real-time signals and insights directly to your device.  
-Track stocks, crypto, and key financial trends effortlessly — anytime, anywhere.
+<p>If you need help, have questions, or want to share feedback, we’re here to support you.</p>
 
----
+<h2>📸 About Camera Only</h2>
+<p>
+Camera Only is designed for users who value authentic photography.
+The app focuses solely on capturing photos and videos as they are—clean, natural, and unaltered.
+</p>
 
-## 💡 Common Questions
+<ul>
+    <li>Pure camera experience</li>
+    <li>No filters or effects</li>
+    <li>No AI or image manipulation</li>
+    <li>Fast, lightweight, and distraction-free</li>
+</ul>
 
-### 1. How do I start using AlertMe?
-- Download the app from the **App Store**.
-- Choose your watchlist and enable real-time alerts.
+<h2>🛠️ Support & Assistance</h2>
+<p>
+If you experience any issues or need assistance with the app, please reach out to us using the contact options below.
+</p>
 
-### 2. Why am I not receiving notifications?
-Make sure:
-- Notifications are enabled in your iPhone Settings → *Notifications → AlertMe → Allow Notifications*.
-- Background App Refresh is turned on.
+<h3>Contact Us</h3>
 
-### 3. How often are alerts updated?
-AlertMe monitors your selected markets **24/7** and delivers instant notifications when signals change.
+<p>
+Email:
+<a href="mailto:hafiz@ayramadigital.com">
+support@cameraonly.com
+</a>
+</p>
 
-### 4. How do I report a bug or give feedback?
-You can send us feedback directly through the app or by emailing **hafiz@ayramadigital.com**.
+<p>
+Website:
+<a href="https://aklima0821.github.io/camera-only-support/" target="_blank" rel="noopener">
+cameraonly.com
+</a>
+</p>
 
----
+<h2>🐞 Bug Reports & Feature Requests</h2>
+<p>
+We welcome feedback to help improve Camera Only. When reporting an issue, please include:
+</p>
 
-## 🧰 Troubleshooting
-If the app crashes or behaves unexpectedly:
-1. Make sure you are using the latest version from the App Store.
-2. Try restarting your device.
-3. If the issue continues, contact us via email with a brief description and screenshots (if possible).
+<ul>
+    <li>Your device model</li>
+    <li>iOS version</li>
+    <li>App version</li>
+    <li>A brief description of the issue</li>
+</ul>
 
----
+<h2>🔐 Privacy</h2>
+<ul>
+    <li>We do not collect personal data</li>
+    <li>We do not process images with AI</li>
+    <li>All captures remain on your device unless you choose to share them</li>
+</ul>
 
-## 📬 Contact Us
-- **Email:** [hafiz@ayramadigital.com](mailto:hafiz@ayramadigital.com)  
-- **Website:** [https://aklima0821.github.io/alertme-support/](https://aklima0821.github.io/alertme-support/)
+<h2>🙏 Thank You</h2>
+<p>
+Thank you for choosing <strong>Camera Only – Authentic Capture</strong>.<br>
+We appreciate your trust and support.
+</p>
 
-We usually respond within **24 hours** on weekdays.
-
----
-
-© 2025 AlertMe. All rights reserved.
+</body>
+</html>
