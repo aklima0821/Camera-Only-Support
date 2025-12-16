@@ -2,30 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Camera Only – Support</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        color: #333;
-        padding: 20px;
-        max-width: 720px;
-        margin: auto;
-    }
-    h1, h2, h3 {
-        color: #111;
-    }
-    a {
-        color: #1a73e8;
-        text-decoration: none;
-        font-weight: 500;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-</style>
-</head>
-<body>
 
 <h1>Camera Only – Support</h1>
 
